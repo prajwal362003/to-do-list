@@ -1,0 +1,37 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 28px;
+  }
+  
+  input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+    cursor: pointer;
+  }
+  
+  li.done {
+    text-decoration: line-through;
+  }
+  
+  .addBtn {
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  
